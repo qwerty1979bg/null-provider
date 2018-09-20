@@ -1,6 +1,6 @@
 # A Terraform `null_provider` example
 
-This repository contains a Terraform `nukk_provider` example
+This repository contains a Terraform `null_provider` example
 
 ## Usage
 
